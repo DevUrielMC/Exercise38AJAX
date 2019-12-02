@@ -1,0 +1,38 @@
+[
+    {
+        "perropanchito1":{
+            "nombre": "Panchito 1",
+            "edad": 3,
+            "peso": 10.5,
+            "estaVivo": true,
+            "propietario":{
+                "nombre": "Uriel",
+                "edad":24,
+                "direccion":"col. uno, calle uno #1"
+            },
+            "cuidados":[
+                "Bañarlo en seco",
+                "sacarlo a pasear una vez al dia"
+            ]
+        }
+    },
+    {
+        "perropanchito2":{
+            "nombre": "Panchito 2",
+            "edad": 3,
+            "peso": 10.5,
+            "estaVivo": true,
+            "propietario":{
+                "nombre": "Uri",
+                "edad":24,
+                "direccion":"col. uno, calle uno #1"
+            },
+            "cuidados":[
+                "Bañarlo en seco",
+                "sacarlo a pasear una vez al dia"
+            ]
+        }
+    }
+    
+    
+]
